@@ -1,3 +1,10 @@
+
+# Rem:
+    * To look in the Google Drive for sheets 1 to 8
+
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome andyk8872,
