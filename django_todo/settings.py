@@ -39,10 +39,10 @@ DEBUG = True
 #     ALLOWED_HOSTS = ['localhost']
 # else:
 #     ALLOWED_HOSTS = [os.environ.get('HEROKU_HOSTNAME')]
-ALLOWED_HOSTS = ['andrew-django-todo-app.herokuapp.com', 'localhost']
+# ALLOWED_HOSTS = ['andrew-django-todo-app.herokuapp.com', 'localhost']
 
 
-# ALLOWED_HOSTS = ['andrew-django-todo-app.herokuapp.com']
+ALLOWED_HOSTS = ['andrew-django-todo-app.herokuapp.com']
 
 
 
