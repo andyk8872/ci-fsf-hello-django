@@ -45,7 +45,6 @@ DEBUG = True
 ALLOWED_HOSTS = ['andrew-django-todo-app.herokuapp.com']
 
 
-
 # Application definition
 
 INSTALLED_APPS = [
